@@ -1,4 +1,4 @@
-# EX No.6.2.DESIGN THE VARIOUS PARTS OF A MECHANICAL COMPONENT AND ASSEMBLE
+<img width="977" height="683" alt="image" src="https://github.com/user-attachments/assets/a235e938-8dbc-4e70-8f62-b7146cfbef7c" /># EX No.6.2.DESIGN THE VARIOUS PARTS OF A MECHANICAL COMPONENT AND ASSEMBLE
 ## DATE:
 
 ## AIM: 
@@ -39,7 +39,8 @@ For aligning the component onto the base, we use the align option, available in 
 For aligning the component onto the base, we first select the “from” coordinates then we select the “To” coordinates in the given base model. At first, the model might not align properly, so, we use the flip option to bring the component to the desired position.
 
 ### STEP 5: 
-We follow the same steps for aligning the components onto their respective      slots on the base component.
+We follow the same steps for aligning the components onto their respective slots on the base component.
+
 
 ### Note: 
 If the components do not fit properly into the slots, it can be moved into the slot using the Move option.
@@ -48,6 +49,7 @@ If the components do not fit properly into the slots, it can be moved into the s
 ![image](https://user-images.githubusercontent.com/113594316/199641859-1ebade5e-7bb4-4047-aa4b-89ae1d934ba0.png)
 
 ## OUTPUT:
+<img width="977" height="683" alt="image" src="https://github.com/user-attachments/assets/f3b58e65-8c3d-4a9c-9bd0-9c87ddb4e14c" />
 
 ## RESULT:
 Thus, a design of various parts of a mechanical component and assemble it using a bottom-up approach in orthographic view has been done
